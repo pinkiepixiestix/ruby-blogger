@@ -1,1 +1,3 @@
-This is a project to rebuild the Google homepage, from The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+This is a project assigned by The Odin Project's [curriculum](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails)
+
+The project is sections I0 to I4 on Jumpstart Lab's Blogger Tutorial (http://tutorials.jumpstartlab.com/projects/blogger.html)
